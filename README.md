@@ -5,3 +5,7 @@ The Fly-E3-V2 can be purchased from AliExpress https://www.aliexpress.com/item/1
 RRF information can be found here https://teamgloomy.github.io/fly_e3_v2_general.html
 
 Klipper information can be found here https://mellow-3d.github.io/fly-e3_v2.html
+
+For Klipper support please join this Discord Channel https://discord.gg/zAung88zbK
+
+For RRF support please join this Discord Channel https://discord.gg/uS97Qs7
